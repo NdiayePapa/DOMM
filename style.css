@@ -1,0 +1,56 @@
+*{
+    background-color: rgb(233, 228, 228);
+}
+
+header
+{
+    text-align: center;
+    margin-top: 2%;
+}
+
+.Logo {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    font-size: xx-large;
+    font-weight: bold;
+    color: rgb(0, 255, 13);
+    text-transform: initial;
+}
+.Logo :hover {
+    background-color: rgb(59, 255, 101);
+}
+#Group1{
+    display: flex;
+    margin-left: 150px;
+}
+#Group1 p{
+    margin-left: 20px;
+}
+
+.container{
+    align-items: center;
+}
+.quantite{
+    width: 45px;
+    height: 35px;
+    text-align: center;
+    border: none;
+}
+.total{
+    width: 45px;
+    height: 35px;
+    border: none;
+    text-align: center;
+}
+.Prixtotal{
+    width: 55px;
+    height: 45px;
+    border: none;
+    text-align: center;
+    margin-right: 0%;
+    
+}
+.liked{
+    color: rgb(224, 18, 11);
+    outline-style: hidden;
+}
